@@ -3,9 +3,10 @@ Neste projeto foi criado alguns modelos de Machine Learning para previsão de fr
 
 
 ## Os atributos executados no projeto foram:
-Conjunto de dados com mais de 80.000 registros\
+Conjunto de dados com mais de 80.000 registros  
 
-Analise exploratória de variáveis categoricas e numéricas
+Analise exploratória de variáveis categoricas e numéricas  
+
 Analise e tratamento de valores missing (nulos)
 Analise estatística de variáveis
 Tratamento de Dados
