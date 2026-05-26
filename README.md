@@ -2,7 +2,7 @@
 Neste projeto foi criado alguns modelos de Machine Learning para previsão de fraudes utilizando [este banco de dados](https://github.com/mike-antunes/Previs-o-de-Fraudes-com-Modelos-de-Machine-Learning/blob/main/BaseDeDadosDoProjeto) 
 
 
-### Os atributos executados no projeto foram:
+## Os atributos executados no projeto foram:
 Conjunto de dados com mais de 80.000 registros
 Analise exploratória de variáveis categoricas e numéricas
 Analise e tratamento de valores missing (nulos)
