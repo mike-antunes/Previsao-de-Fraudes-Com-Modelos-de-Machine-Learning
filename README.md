@@ -26,14 +26,14 @@ que foram (Random Forest, SVM, KNN).
 Desde o início do projeto o foco foi criar um modelo que pudesse prever possíveis fraudes presentes no banco de dados utilizado que contém as informações dos empréstimos de clientes.
 
 ## Resultados do projeto:
-**Numero de modelos treinados**
+**Numero de modelos treinados**  
 Random Forest (324 modelos treinados)  
-SVM (192 modelos treinados)
+SVM (192 modelos treinados)  
 KNN (120 modelos treinados)
 
-**Percentual de acerto nos testes**
-Random Forest 99.23%
-SVM 98.92%
+**Percentual de acerto nos testes**  
+Random Forest 99.23%  
+SVM 98.92%  
 KNN 97.04%
 
 **Poderia atingir resultados ainda melhores???**
